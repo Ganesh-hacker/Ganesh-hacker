@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java,HTML,CSS
 - 💞️ I’m looking to implement my java knowledge
 - 📫 How can i use my java language skills
+[![Leetcode profile](https://leetcode.com/Ganesh_Bhuvaneswaram/)]
 
 <!---
 Ganesh-hacker/Ganesh-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
