@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganesh-hacker
 - 👀 I’m interested in building software
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to implement my javae knowledge
+- 🌱 I’m currently learning java,HTML,CSS
+- 💞️ I’m looking to implement my java knowledge
 - 📫 How can i use my java language skills
 
 <!---
