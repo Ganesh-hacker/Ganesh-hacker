@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganesh-hacker
+- 👋 Hi, I’m Ganesh Bhuvaneswaram
 - 👀 I’m interested in building software
 - 🌱 I’m currently learning java,HTML,CSS
 - 💞️ I’m looking to implement my java knowledge
